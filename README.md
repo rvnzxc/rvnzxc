@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=REIVEN%20BALBUENA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BSIT%20Student%20%7C%20Web%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=RVNZXC&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BSIT%20Student%20%7C%20Web%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -12,28 +12,28 @@
 
 <img src="https://img.shields.io/badge/BSIT-Student-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Web%20Development-Focused-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Philippines-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Development-Open%20To-312E81?style=for-the-badge&logo=serverless&logoColor=white" />
 
 <br><br>
 
-<a href="https://github.com/ReivenBalbuena">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/rvnzxc">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:reiven.balbuena@gmail.com">
+<a href="mailto:YOUR_EMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/ReivenBalbuena">
+<a href="https://github.com/rvnzxc">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ReivenBalbuena&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ReivenBalbuena?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github" />
-<img src="https://img.shields.io/github/stars/ReivenBalbuena?affiliations=OWNER&label=STARS&style=for-the-badge&color=7C3AED&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=rvnzxc&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/rvnzxc?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github" />
+<img src="https://img.shields.io/github/stars/rvnzxc?affiliations=OWNER&label=STARS&style=for-the-badge&color=7C3AED&logo=github" />
 
 </div>
 
@@ -41,20 +41,20 @@
 
 ## About
 
-I am a **Bachelor of Science in Information Technology (BSIT) student** with a strong focus on **web development and backend engineering**.
+I am a **Bachelor of Science in Information Technology (BSIT) student** focused on **web development and backend engineering**.
 
-My current direction is building modern, responsive, and maintainable web applications using **Laravel, Tailwind CSS, JavaScript, React.js, and Vue.js**. I enjoy turning ideas and system requirements into functional web applications with clean interfaces, structured backend logic, and reliable database integration.
+My current direction is building modern, responsive, and maintainable web applications using **Laravel, Tailwind CSS, JavaScript, React.js, and Vue.js**. I enjoy turning ideas and system requirements into functional applications with clean interfaces, structured backend logic, and reliable database integration.
 
-I am particularly interested in **backend development**, while continuing to strengthen my full-stack development skills. My goal is to grow as a software developer by working on real-world applications, learning professional development practices, and contributing to collaborative engineering teams.
+I am particularly interested in **backend development**, while continuing to strengthen my full-stack development skills. My goal is to gain professional experience through real-world projects, collaborative development, and an internship where I can contribute while continuing to grow as a developer.
 
 ### Current Direction
 
 * **Web Development** — Building responsive and user-focused web applications
 * **Backend Development** — Developing server-side applications and database-driven systems
-* **Laravel** — Building structured PHP applications and backend systems
+* **Laravel** — Building PHP-based web applications and backend systems
 * **Frontend Development** — React.js, Vue.js, JavaScript, HTML, CSS, and Tailwind CSS
 * **Database Development** — Working with SQL databases and XAMPP-based development environments
-* **Continuous Learning** — Improving software engineering practices through projects and hands-on development
+* **Software Engineering** — Improving coding practices, system architecture, debugging, and development workflows
 
 ### Open To
 
@@ -92,7 +92,7 @@ I am particularly interested in **backend development**, while continuing to str
 
 <div align="center">
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> <a href="https://www.apachefriends.org/"><img src="https://skillicons.dev/icons?i=apache" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> <a href="https://www.apachefriends.org/"><img src="https://skillicons.dev/icons?i=apache" /></a>
 
 </div>
 
@@ -100,17 +100,17 @@ I am particularly interested in **backend development**, while continuing to str
 
 ## Web Development Expertise
 
-| Domain                   |     Focus    | Details                                                                                    |
-| :----------------------- | :----------: | :----------------------------------------------------------------------------------------- |
-| **Laravel**              | `████████░░` | Developing PHP-based web applications, backend logic, routing, and database-driven systems |
-| **PHP**                  | `████████░░` | Server-side programming and dynamic web application development                            |
-| **JavaScript**           | `████████░░` | DOM manipulation, application logic, APIs, and interactive web interfaces                  |
-| **React.js**             | `███████░░░` | Building component-based and interactive frontend applications                             |
-| **Vue.js**               | `███████░░░` | Developing reactive and component-based web interfaces                                     |
-| **Tailwind CSS**         | `████████░░` | Creating responsive and modern interfaces with utility-first CSS                           |
-| **SQL**                  | `███████░░░` | Database design, queries, relationships, and data management                               |
-| **Frontend Development** | `████████░░` | Responsive layouts, reusable components, and user-focused interfaces                       |
-| **Backend Development**  | `████████░░` | Server-side logic, database integration, APIs, and application architecture                |
+| Domain                   |     Focus    | Details                                                                                  |
+| :----------------------- | :----------: | :--------------------------------------------------------------------------------------- |
+| **Laravel**              | `████████░░` | Building PHP-based web applications, backend logic, routing, and database-driven systems |
+| **PHP**                  | `████████░░` | Server-side programming and dynamic web application development                          |
+| **JavaScript**           | `████████░░` | Application logic, DOM manipulation, APIs, and interactive interfaces                    |
+| **React.js**             | `███████░░░` | Building component-based and interactive frontend applications                           |
+| **Vue.js**               | `███████░░░` | Developing reactive and component-based web interfaces                                   |
+| **Tailwind CSS**         | `████████░░` | Creating responsive interfaces using utility-first CSS                                   |
+| **SQL**                  | `███████░░░` | Database design, queries, relationships, and data management                             |
+| **Backend Development**  | `████████░░` | Server-side logic, database integration, APIs, and application architecture              |
+| **Frontend Development** | `████████░░` | Responsive layouts, reusable components, and user-focused interfaces                     |
 
 ---
 
@@ -130,7 +130,7 @@ A web-based point-of-sale and purchase analytics system designed to improve coop
 | **Performance** | Centralized transactions and structured database queries                    |
 | **Security**    | Authentication · Input validation · Access control                          |
 | **Impact**      | Improved transaction management · Inventory visibility · Purchase analytics |
-| **Repository**  | [GitHub](https://github.com/ReivenBalbuena)                                 |
+| **Repository**  | [GitHub](https://github.com/rvnzxc)                                         |
 
 **Professional Engineering Scope**
 
@@ -158,7 +158,7 @@ A web-based employee information and record-management platform designed to orga
 | **Performance** | Centralized employee records and structured data retrieval  |
 | **Security**    | Authentication · Validation · Access management             |
 | **Impact**      | Digital employee records · Reduced manual record management |
-| **Repository**  | [GitHub](https://github.com/ReivenBalbuena)                 |
+| **Repository**  | [GitHub](https://github.com/rvnzxc)                         |
 
 **Professional Engineering Scope**
 
@@ -184,7 +184,7 @@ A web-based appointment and queue management system concept designed to improve 
 | **Performance** | Centralized appointments and queue information                  |
 | **Security**    | Authentication · Validation · Controlled access                 |
 | **Impact**      | Improved queue visibility · More organized student transactions |
-| **Repository**  | [GitHub](https://github.com/ReivenBalbuena)                     |
+| **Repository**  | [GitHub](https://github.com/rvnzxc)                             |
 
 **Professional Engineering Scope**
 
@@ -222,7 +222,7 @@ Developing academic and personal projects focused primarily on **web development
 
 **Skills**
 
-`Java` `JavaScript` `PHP` `Laravel` `React.js` `Vue.js` `Tailwind CSS` `HTML` `CSS` `SQL` `MySQL` `XAMPP` `Git` `GitHub`
+`Java` `JavaScript` `PHP` `Laravel` `React.js` `Vue.js` `Tailwind CSS` `HTML` `CSS` `SQL` `MySQL` `XAMPP` `Postman` `Git` `GitHub`
 
 ---
 
@@ -236,7 +236,7 @@ Developing academic and personal projects focused primarily on **web development
 | **Backend Development**  | Developed database-driven applications using PHP, Laravel, and SQL                          |
 | **Frontend Development** | Built responsive interfaces using JavaScript, React.js, Vue.js, HTML, CSS, and Tailwind CSS |
 | **System Development**   | Designed POS, queue management, HR, and transaction management systems                      |
-| **Academic Projects**    | Applied programming, database, system analysis, and UI/UX concepts to practical projects    |
+| **API Development**      | Practiced API testing and development workflows using Postman                               |
 | **Continuous Learning**  | Expanding full-stack development knowledge while specializing toward backend engineering    |
 
 </div>
@@ -245,21 +245,17 @@ Developing academic and personal projects focused primarily on **web development
 
 ## Certifications
 
-### AWS
+### Postman
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-Certified%2FCompleted%20Training-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ### Cisco
 
-<img src="https://img.shields.io/badge/Cisco-Networking-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Certified%2FCompleted%20Training-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" />
+
+### Ethical Hacking
+
+<img src="https://img.shields.io/badge/Ethical%20Hacking-Certificate-6D28D9?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 ---
 
@@ -291,17 +287,17 @@ Developing academic and personal projects focused primarily on **web development
 
 <div align="center">
 
-<a href="https://github.com/ReivenBalbuena">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReivenBalbuena&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" />
+<a href="https://github.com/rvnzxc">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvnzxc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" />
 </a>
 
-<a href="https://github.com/ReivenBalbuena">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReivenBalbuena&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<a href="https://github.com/rvnzxc">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvnzxc&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ReivenBalbuena&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=rvnzxc&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -311,7 +307,7 @@ Developing academic and personal projects focused primarily on **web development
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ReivenBalbuena&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rvnzxc&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -321,7 +317,7 @@ Developing academic and personal projects focused primarily on **web development
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReivenBalbuena&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvnzxc&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -331,7 +327,7 @@ Developing academic and personal projects focused primarily on **web development
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ReivenBalbuena/ReivenBalbuena/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/rvnzxc/rvnzxc/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -385,7 +381,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:reiven.balbuena@gmail.com">
+<a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -393,12 +389,12 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/ReivenBalbuena">
+<a href="https://github.com/rvnzxc">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/ReivenBalbuena">
-<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/rvnzxc">
+<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
