@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:rvnblbn@example.com">
   <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/rvnzxc">
@@ -31,7 +31,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rvnzxc&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Reiven R. Balbuena&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/rvnzxc?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github" />
 <img src="https://img.shields.io/github/stars/rvnzxc?affiliations=OWNER&label=STARS&style=for-the-badge&color=7C3AED&logo=github" />
 
