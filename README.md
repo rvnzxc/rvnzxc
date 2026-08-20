@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=RVNZXC&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BSIT%20Student%20%7C%20Web%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=REIVEN%20R.%20BALBUENA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BSIT%20Student%20%7C%20Web%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:rvnblbn@example.com">
+<a href="mailto:rvnblbn@gmail.com">
   <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/rvnzxc">
@@ -31,7 +31,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Reiven R. Balbuena&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rvnzxc&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/rvnzxc?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github" />
 <img src="https://img.shields.io/github/stars/rvnzxc?affiliations=OWNER&label=STARS&style=for-the-badge&color=7C3AED&logo=github" />
 
@@ -41,7 +41,7 @@
 
 ## About
 
-I am a **Bachelor of Science in Information Technology (BSIT) student** focused on **web development and backend engineering**.
+I am **Reiven R. Balbuena**, a **Bachelor of Science in Information Technology (BSIT) student** focused on **web development and backend engineering**.
 
 My current direction is building modern, responsive, and maintainable web applications using **Laravel, Tailwind CSS, JavaScript, React.js, and Vue.js**. I enjoy turning ideas and system requirements into functional applications with clean interfaces, structured backend logic, and reliable database integration.
 
@@ -247,11 +247,11 @@ Developing academic and personal projects focused primarily on **web development
 
 ### Postman
 
-<img src="https://img.shields.io/badge/Postman-Certified%2FCompleted%20Training-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-Certificate-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ### Cisco
 
-<img src="https://img.shields.io/badge/Cisco-Certified%2FCompleted%20Training-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Certificate-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white" />
 
 ### Ethical Hacking
 
@@ -323,8 +323,6 @@ Developing academic and personal projects focused primarily on **web development
 
 ---
 
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -339,6 +337,7 @@ Developing academic and personal projects focused primarily on **web development
 
 ```yaml
 profile:
+  name: "Reiven R. Balbuena"
   role: "BSIT Student"
   specialization: "Web Development"
   direction: "Backend Development"
