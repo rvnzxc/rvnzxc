@@ -329,7 +329,7 @@ Developing academic and personal projects focused primarily on **web development
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rvnzxc/rvnzxc/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/rvnzxc/rvnzxc/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
